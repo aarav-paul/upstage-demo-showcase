@@ -1,73 +1,135 @@
-# Welcome to your Lovable project
+# Upstage AI Capabilities Demo
 
-## Project info
+A professional, interactive demo showcasing Upstage's three core AI capabilities: Document Parse, Universal Information Extractor, and Solar LLM. Built with modern web technologies for a clean, engaging developer experience.
+
+## 🚀 Live Demo
 
 **URL**: https://lovable.dev/projects/9aec765f-679b-4145-856f-f269258d0555
 
-## How can I edit this code?
+## 📸 Demo Screenshots
 
-There are several ways of editing your application.
+### Landing Page
+Clean, professional homepage introducing all three capabilities with interactive cards and smooth navigation.
 
-**Use Lovable**
+### Document Parse Demo
+- Interactive file upload interface
+- Real-time processing simulation  
+- Detailed parsing results showing tables, forms, text blocks, and confidence scores
+- Demonstrates handling of complex layouts and rotated content
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9aec765f-679b-4145-856f-f269258d0555) and start prompting.
+### Information Extractor Demo
+- Schema definition interface for custom data extraction
+- Sample document preview
+- Structured data output with confidence scoring
+- Shows field-by-field extraction capabilities
 
-Changes made via Lovable will be committed automatically to this repo.
+### Solar LLM Demo
+- Document-aware Q&A chat interface
+- Sample questions for easy testing
+- Real-time conversation with contextual understanding
+- Demonstrates reasoning capabilities over document content
 
-**Use your preferred IDE**
+## ✨ What Each Demo Showcases
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🔍 Document Parse
+**Capability**: Complex document layout understanding
+- **Demonstrates**: Parsing tables, forms, rotated text, and multi-column layouts
+- **Key Features**: High-precision OCR, layout analysis, confidence scoring
+- **Use Cases**: Invoice processing, form digitization, document archiving
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 📊 Universal Information Extractor  
+**Capability**: Schema-based structured data extraction
+- **Demonstrates**: Custom field extraction from unstructured documents
+- **Key Features**: User-defined schemas, field-level confidence, flexible output formats
+- **Use Cases**: Data migration, content processing, automated data entry
 
-Follow these steps:
+### 🧠 Solar LLM
+**Capability**: Document-aware reasoning and Q&A
+- **Demonstrates**: Contextual understanding, natural language queries, intelligent responses
+- **Key Features**: Document comprehension, multi-turn conversations, precise answers
+- **Use Cases**: Document search, content analysis, intelligent assistants
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+## 🛠 Setup Instructions
+
+### Prerequisites
+- Node.js & npm ([install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+### Local Development
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to project directory  
+cd upstage-demo
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Cloud Development Options
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Lovable (Recommended)**
+- Visit the [Lovable Project](https://lovable.dev/projects/9aec765f-679b-4145-856f-f269258d0555)
+- Make changes directly in the browser
+- Automatic commits and deployment
 
-**Use GitHub Codespaces**
+**GitHub Codespaces**
+- Click "Code" → "Codespaces" → "New codespace"
+- Full development environment in browser
+- Commit and push changes when done
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🔧 Technologies Used
 
-## What technologies are used for this project?
+**Frontend Framework**
+- **React 18** - Modern component-based architecture
+- **TypeScript** - Type-safe development
+- **Vite** - Fast build tool and dev server
 
-This project is built with:
+**UI & Styling**  
+- **Tailwind CSS** - Utility-first styling with custom design system
+- **shadcn/ui** - Professional component library
+- **Lucide React** - Beautiful icon system
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Key Features**
+- Responsive design for all devices
+- Professional color scheme and gradients
+- Smooth animations and transitions
+- Accessible components and interactions
 
-## How can I deploy this project?
+## 🚀 Deployment
 
-Simply open [Lovable](https://lovable.dev/projects/9aec765f-679b-4145-856f-f269258d0555) and click on Share -> Publish.
+### Quick Deploy (Recommended)
+1. Open [Lovable](https://lovable.dev/projects/9aec765f-679b-4145-856f-f269258d0555)
+2. Click "Share" → "Publish"
+3. Your demo is live instantly!
 
-## Can I connect a custom domain to my Lovable project?
+### Custom Domain
+1. Navigate to Project → Settings → Domains
+2. Click "Connect Domain"
+3. Follow the [setup guide](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
-Yes, you can!
+## 💡 Developer Community Engagement Ideas
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Documentation Improvements
+- **Interactive API Explorer**: Live code examples with real API calls
+- **Video Tutorials**: Step-by-step integration guides for each capability
+- **Use Case Library**: Industry-specific examples (finance, healthcare, legal)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+### Community Building
+- **Demo Gallery**: Showcase community-built applications
+- **Hackathons**: Monthly challenges with Upstage API integration
+- **Open Source**: Component libraries and starter templates
+- **Developer Discord**: Real-time support and collaboration
+
+### Developer Experience  
+- **SDKs**: Easy-to-use libraries for popular frameworks
+- **Postman Collections**: Ready-to-use API testing suites
+- **Webhook Playground**: Test integration flows interactively
+- **Performance Dashboards**: Real-time API metrics and insights
+
+## 📧 Contact
+
+Built for the Upstage API showcase. For questions or contributions, reach out through the project repository.
