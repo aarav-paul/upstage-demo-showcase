@@ -13,7 +13,8 @@ This showcase demonstrates how Upstage's AI capabilities can transform document 
 ## 📸 Screenshots & Features
 
 ### 🏠 Landing Page
-![Landing Page](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/landing-page.png)
+![image](https://github.com/user-attachments/assets/eff8c541-2cd0-4b62-8d2a-8852c981d243)
+
 *Professional hero section with interactive navigation and modern UI*
 
 ### 🔍 Document Parse Demo
