@@ -11,7 +11,7 @@ const Header = () => {
             </div>
             <h1 className="text-xl font-semibold">Upstage Demo</h1>
           </div>
-          <nav className="hidden md:flex items-center space-x-6">
+          <nav className="flex items-center space-x-6">
             <a href="#document-parse" className="text-muted-foreground hover:text-foreground transition-colors">
               Document Parse
             </a>
@@ -22,9 +22,6 @@ const Header = () => {
               Solar LLM
             </a>
           </nav>
-          <Button variant="default" size="sm">
-            Try API
-          </Button>
         </div>
       </div>
     </header>

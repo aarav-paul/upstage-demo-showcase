@@ -34,15 +34,12 @@ const Footer = () => {
           </div>
           
           <div>
-            <h4 className="font-semibold mb-4">Get Started</h4>
-            <div className="space-y-3">
-              <Button className="w-full" size="sm">
-                Try Free API
-              </Button>
-              <Button variant="outline" className="w-full" size="sm">
-                <Github className="w-4 h-4 mr-2" />
-                View on GitHub
-              </Button>
+            <h4 className="font-semibold mb-4">Links</h4>
+            <div className="space-y-2 text-sm">
+              <a href="#" className="flex items-center gap-1 text-muted-foreground hover:text-foreground transition-colors">
+                <Github className="w-3 h-3" />
+                GitHub
+              </a>
             </div>
           </div>
         </div>
