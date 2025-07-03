@@ -13,6 +13,24 @@ This showcase demonstrates how Upstage's AI capabilities can transform document 
 ## 📸 Screenshots & Features
 
 ### 🏠 Landing Page
+![Landing Page](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/landing-page.png)
+*Professional hero section with interactive navigation and modern UI*
+
+### 🔍 Document Parse Demo
+![Document Parse Demo](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/document-parse.png)
+*Multi-format file upload with real-time processing simulation*
+
+### 📊 Information Extractor Demo
+![Information Extractor Demo](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/information-extractor.png)
+*Schema management interface with structured data extraction results*
+
+### 🧠 Solar LLM Demo
+![Solar LLM Demo](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/solar-llm.png)
+*Advanced reasoning chat interface with chain-of-thought processing*
+
+> **📸 Screenshots**: To add your screenshots, upload them via GitHub's web interface or use an image hosting service like Imgur, then replace the placeholder URLs above with your actual image URLs.
+
+### 🏠 Landing Page
 - **Professional Hero Section**: Clean introduction to all three capabilities
 - **Interactive Navigation**: Smooth scrolling between demo sections
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
@@ -242,33 +260,13 @@ src/
 
 ### Developer Community Engagement
 
-1. **Community-Driven Content**
-   - **Hackathon Series**: Monthly challenges with specific themes (document processing, AI reasoning, data extraction)
-   - **Open Source Contributions**: Encourage community contributions to SDKs, starter templates, and documentation
-   - **Developer Blog**: Regular technical articles, case studies, and integration stories
-   - **Community Showcase**: Feature and promote successful integrations built by developers
 
-2. **Developer Support & Resources**
-   - **Discord/Slack Community**: Real-time support channels with Upstage team members
-   - **Office Hours**: Regular Q&A sessions with technical team
-   - **Code Review Sessions**: Help developers optimize their integrations
-   - **Best Practices Guide**: Comprehensive guide for optimal API usage
-
-3. **Educational Content**
-   - **Video Tutorial Series**: Step-by-step guides for each capability
-   - **Webinar Series**: Deep dives into advanced features and use cases
-   - **Interactive Workshops**: Hands-on sessions for developers
-   - **Certification Program**: Developer certification for Upstage AI integration
-
-### Technical Improvements
-
-1. **Developer Experience**
+ **Developer Experience**
    - **Webhook Testing Tools**: Interactive webhook playground for testing integration flows
    - **Rate Limit Monitoring**: Real-time dashboard showing API usage and limits
    - **Error Handling Guides**: Comprehensive error code documentation with solutions
    - **Performance Optimization**: Guidelines for optimal API usage and caching strategies
-
-2. **Integration Support**
+**Integration Support**
    - **Pre-built Integrations**: Ready-to-use integrations for popular platforms (Zapier, Make, etc.)
    - **Webhook Templates**: Pre-configured webhook setups for common workflows
    - **Testing Suites**: Comprehensive test suites for validating integrations
@@ -278,8 +276,7 @@ src/
 
 - **Documentation**: [Upstage AI Docs](https://docs.upstage.ai)
 - **API Reference**: [Upstage API Docs](https://docs.upstage.ai/api)
-- **Community**: [Upstage Discord](https://discord.gg/upstage)
-- **Email**: support@upstage.ai
+
 
 ## 📄 License
 
@@ -287,4 +284,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the Upstage AI community**
