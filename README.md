@@ -28,7 +28,6 @@ This showcase demonstrates how Upstage's AI capabilities can transform document 
 ![Solar LLM Demo](https://user-images.githubusercontent.com/[YOUR_USER_ID]/[REPO_ID]/[COMMIT_HASH]/solar-llm.png)
 *Advanced reasoning chat interface with chain-of-thought processing*
 
-> **📸 Screenshots**: To add your screenshots, upload them via GitHub's web interface or use an image hosting service like Imgur, then replace the placeholder URLs above with your actual image URLs.
 
 ### 🏠 Landing Page
 - **Professional Hero Section**: Clean introduction to all three capabilities
