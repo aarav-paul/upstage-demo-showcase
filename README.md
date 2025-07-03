@@ -8,7 +8,7 @@ This showcase demonstrates how Upstage's AI capabilities can transform document 
 
 ## 🚀 Live Demo
 
-**URL**: [Demo Link - Add your deployed URL here]
+**URL**: https://aarav-paul.github.io/upstage-demo-showcase
 
 ## 📸 Screenshots & Features
 
